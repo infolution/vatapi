@@ -1,0 +1,4 @@
+#!/bin/sh
+# vatapi/run
+#run script for vatapi-serverr
+exec /opt/vatapi/vatapi-server -t /opt/vatapi/taxes-cleaned.csv -d /opt/vatapi/postgresconn > /dev/null

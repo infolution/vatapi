@@ -1,0 +1,892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"am",
+				"amountwithtax"
+			],
+			[
+				"amoun",
+				"amount"
+			],
+			[
+				"Res",
+				"Response"
+			],
+			[
+				"amount",
+				"amountwithtax"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"tim",
+				"timeunix"
+			],
+			[
+				"amo",
+				"amountwithtax"
+			],
+			[
+				"countr",
+				"countrycode"
+			],
+			[
+				"v",
+				"VatapiDB"
+			],
+			[
+				"testdb",
+				"testdbHandler"
+			],
+			[
+				"vata",
+				"vatapi-server"
+			],
+			[
+				"vat",
+				"vatapi-server"
+			],
+			[
+				"tax",
+				"taxrate"
+			],
+			[
+				"io",
+				"ioutil"
+			],
+			[
+				"fi",
+				"fieldmap_type"
+			],
+			[
+				"fieldm",
+				"fieldmap_type"
+			],
+			[
+				"re",
+				"return_code"
+			],
+			[
+				"seq",
+				"sequence"
+			],
+			[
+				"Ma",
+				"MAPSDIR"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"catego",
+				"category_map"
+			],
+			[
+				"categ",
+				"categ_id"
+			],
+			[
+				"uom",
+				"uomid"
+			],
+			[
+				"ca",
+				"categ_id"
+			],
+			[
+				"uo",
+				"uom_name"
+			],
+			[
+				"sale",
+				"saleable_left"
+			],
+			[
+				"parent",
+				"parent_left"
+			],
+			[
+				"pa",
+				"parent_left"
+			],
+			[
+				"upda",
+				"update_cmd"
+			],
+			[
+				"parent_",
+				"parent_right"
+			],
+			[
+				"product_",
+				"product_category"
+			],
+			[
+				"sal",
+				"saleable_right"
+			],
+			[
+				"paretn",
+				"parent_left"
+			],
+			[
+				"n",
+				"ne"
+			],
+			[
+				"a",
+				"adresa"
+			],
+			[
+				"w",
+				"write_uid"
+			],
+			[
+				"write_",
+				"write_date"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/mikasner/documents/vatapi/notes.txt",
+			"settings":
+			{
+				"buffer_size": 2662,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mikasner/documents/vatapi/leads.txt",
+			"settings":
+			{
+				"buffer_size": 318,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mikasner/documents/vatapi/businessplan.txt",
+			"settings":
+			{
+				"buffer_size": 584,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/migrations/20140225233451-initall.js",
+			"settings":
+			{
+				"buffer_size": 9736,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Ovdje je sakupljeno znanje o VAT on E-serices\n\nGlavni link\nhttp://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm\n\nSadašnja pravila\nhttp://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/e-services/index_en.htm\n\nNova pravila vrijede od 1.1.2015.\nStara pravila vrijede od 2003 godine",
+			"file": "/home/mikasner/documents/vatapi/vat-knowledge.txt",
+			"file_size": 0,
+			"file_write_time": 130375003210000000,
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mikasner/documents/emgd/nova-gradiska-dom-zdravlja/tel-centrala.txt",
+			"settings":
+			{
+				"buffer_size": 729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mikasner/documents/vatapi/examples/python.py",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mikasner/documents/vatapi/examples/ruby.rb",
+			"settings":
+			{
+				"buffer_size": 616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mikasner/documents/vatapi/examples/php.php",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mikasner/documents/vatapi/examples/golang.go",
+			"settings":
+			{
+				"buffer_size": 998,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mikasner/documents/vatapi/clean-taxes-original.awk",
+		"/home/mikasner/documents/vatapi/taxes-original.csv",
+		"/home/mikasner/HTMLProjects/vatapi/vatapi-server/src/vatapi-server.go",
+		"/home/mikasner/HTMLProjects/vatapi/vatapi-server/src/handlers.go",
+		"/home/mikasner/HTMLProjects/vatapi/vatapi-server/db/V1__init.sql",
+		"/home/mikasner/HTMLProjects/vatapi/vatapi-server/db/drop.sql",
+		"/home/mikasner/HTMLProjects/vatapi/vatapi-server/db/drop",
+		"/home/mikasner/HTMLProjects/vatapi/vatapi-server/src/structs.go",
+		"/home/mikasner/HTMLProjects/vatapi/vatapi-server/src/structs",
+		"/home/mikasner/HTMLProjects/vatapi/rsync_vatapi.sh",
+		"/home/mikasner/HTMLProjects/vatapi/vatapi-server/vatapi-server.go",
+		"/home/mikasner/documents/speedimport/speedimport/core/product_category.awk",
+		"/home/mikasner/documents/vatapi/taxes.csv",
+		"/home/mikasner/HTMLProjects/vatapi/rsync_speedimport.sh",
+		"/home/mikasner/documents/vatapi/notes.txt",
+		"/home/mikasner/documents/speedimport/speedimport/notes.txt",
+		"/media/6A615E2C0272111C/My Documents/infolution/llc/tax2013/notes.txt",
+		"/home/mikasner/documents/speedimport/speedimport/core/res_partner.awk",
+		"/home/mikasner/documents/speedimport/speedimport/core/core.awk",
+		"/home/mikasner/documents/speedimport/speedimport/core/product_template.awk",
+		"/home/mikasner/documents/speedimport/speedimport/import/product.category.sql",
+		"/home/mikasner/documents/speedimport/speedimport/fieldmap/res.partner.fieldmap.csv",
+		"/home/mikasner/documents/speedimport/speedimport/CHANGELOG",
+		"/home/mikasner/documents/speedimport/speedimport/dist.sh",
+		"/home/mikasner/documents/speedimport/speedimport/rsync_speedimport.sh",
+		"/home/mikasner/documents/speedimport/speedimport/scripts/preparesingle.sh",
+		"/home/mikasner/documents/speedimport/speedimport/core/product_product.awk",
+		"/home/mikasner/documents/speedimport/speedimport/fieldmap/product.category.fieldmap.csv",
+		"/home/mikasner/documents/speedimport/speedimport/scripts/savefieldmap.sh",
+		"/home/mikasner/documents/speedimport/speedimport/cgi-bin/savefieldmap.py",
+		"/home/mikasner/documents/speedimport/speedimport/fieldmap/product.category.fieldmap.csv.tmp",
+		"/home/mikasner/programs/speedimport_0.2/js/scripts.js",
+		"/home/mikasner/documents/speedimport/speedimport/fieldmap/product.product.fieldmap.csv",
+		"/home/mikasner/documents/speedimport/speedimport/fieldmap/product.template.fieldmap.csv",
+		"/home/mikasner/documents/speedimport/speedimport-backup/core/product_category.awk",
+		"/home/mikasner/documents/speedimport/speedimport-backup/CHANGELOG",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/scripts/importsingle.sh",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/cgi-bin/fieldmap.py",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/cgi-bin/import.py",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/cgi-bin/importsingle.py",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/cgi-bin/init.py",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/scripts/fieldmapsingle.sh",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/scripts/importdata.sh",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/scripts/preparedata.sh",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/scripts/preparesingle.sh",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/scripts/config",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/core/product_category.awk",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/core/product_product.awk",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/core/product_template.awk",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/core/res_bank.awk",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/core/res_partner.awk",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/scripts/saveconfig.sh",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/scripts/savefieldmap.sh",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/cgi-bin/preparesingle.py",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/cgi-bin/saveconfig.py",
+		"/home/mikasner/documents/speedimport/speedimport-tryout/cgi-bin/savefieldmap.py",
+		"/home/mikasner/documents/speedimport/speedimport/config",
+		"/home/mikasner/documents/speedimport/speedimport/preparesingle.sh",
+		"/home/mikasner/documents/speedimport/speedimport/importsingle.sh",
+		"/home/mikasner/documents/speedimport/speedimport/saveconfig.sh",
+		"/home/mikasner/documents/speedimport/speedimport/cgi-bin/saveconfig.py",
+		"/home/mikasner/documents/speedimport/speedimport/importdata.sh",
+		"/home/mikasner/documents/speedimport/speedimport/cgi-bin/import.py",
+		"/home/mikasner/documents/speedimport/speedimport/cgi-bin/preparesingle.py",
+		"/home/mikasner/documents/speedimport/speedimport/README",
+		"/home/mikasner/documents/speedimport/speedimport/index.html",
+		"/home/mikasner/documents/speedimport/speedimport/savefieldmap.sh",
+		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/app/js/main.js",
+		"/home/mikasner/documents/speedimport/speedimport/fieldmapsingle.sh",
+		"/home/mikasner/documents/speedimport/speedimport/cgi-bin/fieldmap.py",
+		"/home/mikasner/documents/speedimport/speedimport/cgi-bin/init.py",
+		"/home/mikasner/documents/speedimport/speedimport/maps/res.partner.fieldmap.csv",
+		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/freedownloads.csv",
+		"/home/mikasner/documents/speedimport/speedimport/preparedata.sh",
+		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/data/freedownloads.csv",
+		"/home/mikasner/documents/speedimport/speedimport/start.sh",
+		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/app/freedownloads.csv",
+		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/dist/freedownloads.csv",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/index.js",
+		"/home/mikasner/HTMLProjects/speedimport/speedimport-node/index.js",
+		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/app/cgi-bin/download.pl",
+		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/app/cgi-bin/download.py",
+		"/home/mikasner/PycharmProjects/openerp-src-70/server/openerp/tools/config.py",
+		"/home/mikasner/documents/emgd program/implementacija_openerp.txt",
+		"/home/mikasner/documents/speedimport/speedimport-files/objava_landing_page-a.txt",
+		"/home/mikasner/documents/emgd program/speedimport-files/video/SpeedImport.osp",
+		"/home/mikasner/documents/emgd program/speedimport-files/video/RegistarGRU.csv",
+		"/home/mikasner/documents/emgd program/speedimport-files/video/RegPartneri.csv",
+		"/home/mikasner/documents/emgd program/speedimport-files/video/RegistarRU.csv",
+		"/home/mikasner/documents/emgd program/speedimport/cgi-bin/import.py",
+		"/home/mikasner/documents/emgd program/speedimport/core/res_partner.awk",
+		"/home/mikasner/documents/emgd program/speedimport/core/res_bank.awk",
+		"/home/mikasner/documents/emgd program/speedimport/core/product_template.awk",
+		"/home/mikasner/documents/emgd program/speedimport/core/product_product.awk",
+		"/home/mikasner/documents/emgd program/speedimport/index.html",
+		"/home/mikasner/documents/emgd program/speedimport/core/product_category.awk",
+		"/home/mikasner/documents/emgd program/speedimport/importdata.sh",
+		"/home/mikasner/documents/emgd program/speedimport/preparedata.sh",
+		"/home/mikasner/documents/emgd program/speedimport/config",
+		"/home/mikasner/documents/emgd program/speedimport-files/objava_landing_page-a.txt",
+		"/home/mikasner/documents/emgd program/speedimport/import/res.partner.sql",
+		"/home/mikasner/documents/emgd program/speedimport/maps/product.category.map.csv",
+		"/home/mikasner/documents/emgd program/speedimport/import.py",
+		"/home/mikasner/documents/emgd program/speedimport/import/.map.csv",
+		"/home/mikasner/documents/emgd program/speedimport/maps/product.product.map.csv",
+		"/home/mikasner/documents/emgd program/speedimport/core/partneritocsv.awk",
+		"/home/mikasner/documents/emgd program/speedimport/core/sparse_csv.awk",
+		"/home/mikasner/documents/emgd program/speedimport/core/swap.awk",
+		"/home/mikasner/documents/emgd program/speedimport/import/importdata.sh",
+		"/home/mikasner/documents/emgd program/openerpimporter/core/banke.awk",
+		"/home/mikasner/documents/emgd program/import/product.product.map.csv",
+		"/home/mikasner/documents/emgd program/produkcija/product_template.awk",
+		"/home/mikasner/documents/emgd program/produkcija/product_product.awk",
+		"/home/mikasner/documents/emgd program/import/product.template.map.csv",
+		"/home/mikasner/documents/emgd program/import/product.product.sql",
+		"/home/mikasner/documents/emgd program/produkcija/partneri.awk",
+		"/home/mikasner/documents/emgd program/produkcija/kategorije.awk",
+		"/home/mikasner/documents/emgd program/produkcija/RegistarRU.csv",
+		"/home/mikasner/documents/emgd program/produkcija/preparedata.sh",
+		"/home/mikasner/documents/emgd program/baza_backup/dump.sql",
+		"/home/mikasner/documents/emgd program/produkcija/OtpremnicaMPStavke.csv",
+		"/home/mikasner/documents/emgd program/produkcija/OtpremnicaMP.csv",
+		"/home/mikasner/documents/emgd program/import/product.category.map.csv",
+		"/home/mikasner/documents/emgd program/import/product.template.sql",
+		"/home/mikasner/documents/emgd program/produkcija/artikli.awk",
+		"/home/mikasner/documents/emgd program/produkcija/mdbtocsv.sh",
+		"/home/mikasner/documents/emgd program/import/product.category.sql",
+		"/home/mikasner/documents/emgd program/beta_2_a/csv.awk"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			" / ",
+			" \\(\\d+\\)$",
+			"$",
+			", ",
+			"^\\\"\\d+\\\",\\\"\\.\\\"\\n",
+			"^\\\"\\d+\\\",,,",
+			"^\\\"\\d+\\\",\\\"*\\w*\\\"*,\\\"\\s*\\\"",
+			"^\\\"\\d+\\\",\\\"\\\\\"",
+			"\\\"\\d+\\\",\\\"\\\"",
+			"\\\"\\w+\\\",\\\"\\\"",
+			"\"\\w+\",\"\"",
+			"psql",
+			"~",
+			"\\n\\w+\"",
+			"\\n",
+			"(\\w+), ",
+			", ",
+			"\"\\N",
+			", ",
+			"copy\\s*product_template",
+			"copy product_template",
+			"\"\\N",
+			", ",
+			"copy\\s*product_product",
+			"product_product",
+			"service",
+			"product_product",
+			"product_product ",
+			"\\s*$",
+			"više...",
+			"suppli",
+			"elegance",
+			"\"\\\\N",
+			"\\r",
+			"\"\\N",
+			",",
+			"protected=\"true",
+			"protected",
+			"purchases",
+			"useAlternatePrinting",
+			"\\}$",
+			"}$",
+			"racun",
+			"nalog[52]",
+			"nalog[49]",
+			"generatemas",
+			"nalog[47]",
+			"nalog[46]",
+			"nalog[26]",
+			"nalog[4]",
+			"nalog[3]",
+			"nalog[2]",
+			"nalog[1]",
+			"generatenalo",
+			"preradau",
+			"generategrozde"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/",
+			"",
+			",P",
+			",\\n",
+			"",
+			"\"",
+			"$1 = \"table\".$1, ",
+			"=\"\\\\\\\\N\";\\n",
+			"\"\\\\N",
+			"=\"\\\\\\N\";\\n",
+			"\"\\\\N",
+			"=\"\\\\N\";\\n",
+			"",
+			"\"",
+			"\"\\\\N",
+			"=\"\\N\";",
+			"=\"\\N\"",
+			"protected=\"false",
+			"},"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/mikasner/HTMLProjects/vatapi/vatapi-server"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/mikasner/documents/vatapi/notes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2661,
+								2661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/mikasner/documents/vatapi/leads.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/mikasner/documents/vatapi/businessplan.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/migrations/20140225233451-initall.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/mikasner/documents/vatapi/vat-knowledge.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/mikasner/documents/emgd/nova-gradiska-dom-zdravlja/tel-centrala.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/mikasner/documents/vatapi/examples/python.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/mikasner/documents/vatapi/examples/ruby.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/mikasner/documents/vatapi/examples/php.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/mikasner/documents/vatapi/examples/golang.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								998,
+								998
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
