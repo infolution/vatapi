@@ -67,23 +67,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="1" selection-start="57" selection-end="58" vertical-scroll-proportion="0.09490334" vertical-offset="0" max-vertical-offset="569">
+            <state line="3" column="40" selection-start="0" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="198">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="message.go" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/gocode/src/github.com/sirsean/go-mailgun/mailgun/message.go">
+      <file leaf-file-name="vatapi-server.go" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/vatapi-server.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="18" selection-start="257" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1746">
-              <folding />
+            <state line="342" column="61" selection-start="8988" selection-end="8988" vertical-scroll-proportion="0.5462185" vertical-offset="629" max-vertical-offset="1224">
+              <folding>
+                <element signature="n#!!block;n#calcHandler#0" expanded="false" />
+                <element signature="n#!!block;n#calcAmount#0" expanded="false" />
+                <element signature="n#!!block;n#saleHandler#0" expanded="false" />
+                <element signature="n#!!block;n#readParam#0" expanded="false" />
+                <element signature="n#!!block;n#signup#0" expanded="false" />
+                <element signature="n#!!block;n#randString#0" expanded="false" />
+                <element signature="n#!!block;n#generateAPIKey#0" expanded="false" />
+                <element signature="n#!!block;n#login#0" expanded="false" />
+                <element signature="n#!!block;n#accountInfo#0" expanded="false" />
+                <element signature="n#!!block;n#testdbHandler#0" expanded="false" />
+                <element signature="n#!!block;n#readTaxes#0" expanded="false" />
+                <element signature="n#!!block;n#main#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -220,8 +230,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -270,6 +278,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,7 +297,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/NetBeansProjects/Vinople/vinople-golang" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -524,7 +534,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="29" width="1680" height="1021" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -541,7 +551,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24970202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24970202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -649,6 +659,7 @@
             <element signature="n#!!block;n#accountInfo#0" expanded="false" />
             <element signature="n#!!block;n#testdbHandler#0" expanded="false" />
             <element signature="n#!!block;n#readTaxes#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -731,6 +742,7 @@
             <element signature="n#!!block;n#accountInfo#0" expanded="false" />
             <element signature="n#!!block;n#testdbHandler#0" expanded="false" />
             <element signature="n#!!block;n#readTaxes#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -813,6 +825,7 @@
             <element signature="n#!!block;n#accountInfo#0" expanded="false" />
             <element signature="n#!!block;n#testdbHandler#0" expanded="false" />
             <element signature="n#!!block;n#readTaxes#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -860,6 +873,7 @@
             <element signature="n#!!block;n#accountInfo#0" expanded="false" />
             <element signature="n#!!block;n#testdbHandler#0" expanded="false" />
             <element signature="n#!!block;n#readTaxes#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -900,6 +914,7 @@
             <element signature="n#!!block;n#accountInfo#0" expanded="false" />
             <element signature="n#!!block;n#testdbHandler#0" expanded="false" />
             <element signature="n#!!block;n#readTaxes#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -951,13 +966,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/V1__init.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="2378" selection-end="2378" vertical-scroll-proportion="0.0" vertical-offset="719" max-vertical-offset="2016">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tools/run">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="0" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
@@ -972,9 +980,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="40" selection-start="0" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/V1__init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="0" selection-start="2378" selection-end="2378" vertical-scroll-proportion="0.0" vertical-offset="719" max-vertical-offset="2016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/vatapi-server.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="302" column="1" selection-start="7587" selection-end="8105" vertical-scroll-proportion="1.482353" vertical-offset="0" max-vertical-offset="1980">
+        <state line="342" column="61" selection-start="8988" selection-end="8988" vertical-scroll-proportion="0.5462185" vertical-offset="629" max-vertical-offset="1224">
           <folding>
             <element signature="n#!!block;n#calcHandler#0" expanded="false" />
             <element signature="n#!!block;n#calcAmount#0" expanded="false" />
@@ -987,17 +1012,8 @@
             <element signature="n#!!block;n#accountInfo#0" expanded="false" />
             <element signature="n#!!block;n#testdbHandler#0" expanded="false" />
             <element signature="n#!!block;n#readTaxes#0" expanded="false" />
+            <element signature="n#!!block;n#main#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="1" selection-start="57" selection-end="58" vertical-scroll-proportion="0.09490334" vertical-offset="0" max-vertical-offset="569">
-          <folding />
         </state>
       </provider>
     </entry>

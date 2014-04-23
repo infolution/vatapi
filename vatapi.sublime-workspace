@@ -156,85 +156,42 @@
 	"buffers":
 	[
 		{
-			"file": "/home/mikasner/documents/vatapi/notes.txt",
+			"file": "/home/mikasner/HTMLProjects/hugo/docs/layouts/_default/single.html",
 			"settings":
 			{
-				"buffer_size": 2662,
+				"buffer_size": 302,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/mikasner/documents/vatapi/leads.txt",
+			"file": "/home/mikasner/HTMLProjects/hugo/docs/layouts/chrome/footer.html",
 			"settings":
 			{
-				"buffer_size": 318,
+				"buffer_size": 963,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/mikasner/documents/vatapi/businessplan.txt",
+			"file": "/home/mikasner/HTMLProjects/hugo/docs/layouts/indexes/showcase.html",
 			"settings":
 			{
-				"buffer_size": 584,
+				"buffer_size": 419,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/migrations/20140225233451-initall.js",
+			"file": "/home/mikasner/HTMLProjects/hugo/docs/content/indexes/templates.md",
 			"settings":
 			{
-				"buffer_size": 9736,
+				"buffer_size": 1509,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "Ovdje je sakupljeno znanje o VAT on E-serices\n\nGlavni link\nhttp://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm\n\nSadašnja pravila\nhttp://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/e-services/index_en.htm\n\nNova pravila vrijede od 1.1.2015.\nStara pravila vrijede od 2003 godine",
-			"file": "/home/mikasner/documents/vatapi/vat-knowledge.txt",
-			"file_size": 0,
-			"file_write_time": 130375003210000000,
+			"file": "/home/mikasner/HTMLProjects/hugo/docs/content/layout/chrome.md",
 			"settings":
 			{
-				"buffer_size": 321,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/mikasner/documents/emgd/nova-gradiska-dom-zdravlja/tel-centrala.txt",
-			"settings":
-			{
-				"buffer_size": 729,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/mikasner/documents/vatapi/examples/python.py",
-			"settings":
-			{
-				"buffer_size": 304,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/mikasner/documents/vatapi/examples/ruby.rb",
-			"settings":
-			{
-				"buffer_size": 616,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/mikasner/documents/vatapi/examples/php.php",
-			"settings":
-			{
-				"buffer_size": 543,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/mikasner/documents/vatapi/examples/golang.go",
-			"settings":
-			{
-				"buffer_size": 998,
+				"buffer_size": 2780,
 				"line_ending": "Unix"
 			}
 		}
@@ -279,6 +236,47 @@
 	},
 	"file_history":
 	[
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-vertx/src/main/java/hr/infolution/vinople/verticle/WebsocketVerticle.java",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-vertx/src/main/java/hr/infolution/vinople/verticle/PostgresHandler.java",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/sampledata/sampledata.js",
+		"/home/mikasner/documents/personal/posao_aduro_ideja.txt",
+		"/home/mikasner/documents/emgd/nova-gradiska-dom-zdravlja/tel-centrala.txt",
+		"/home/mikasner/HTMLProjects/stati18n/stati18n.css",
+		"/home/mikasner/HTMLProjects/stati18n/stati18n.php",
+		"/home/mikasner/HTMLProjects/stati18n/stati18n.js",
+		"/home/mikasner/HTMLProjects/stati18n/test.html",
+		"/home/mikasner/HTMLProjects/stati18n/stati18n.xml",
+		"/home/mikasner/HTMLProjects/stati18n/stati18n-min.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/migrations/20140225233451-initall.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/database.json",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/generator.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/index.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-yeoman/app/bower_components/q/Gruntfile.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-yeoman/app/bower_components/q/README.md",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-yeoman/node_modules/grunt-contrib-uglify/Gruntfile.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-yeoman/app/bower_components/q/q.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-yeoman/node_modules/grunt-contrib-uglify/node_modules/uglify-js/README.md",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-jekyll/_layouts/base.html",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-jekyll/javascripts/vinople.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-jekyll/en/signup/index.html",
+		"/home/mikasner/NetBeansProjects/Lapos/Lapos-yeoman/app/scripts/main.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-web/app/_bower_components/foundation/js/foundation/foundation.abide.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-yeoman/dist/index.html",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-yeoman/dist/scripts/73017ee0.vendor.js",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-jekyll/_includes/navigation.html",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-jekyll/sass/_settings.scss",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-jekyll/stylesheets/styles.css",
+		"/home/mikasner/NetBeansProjects/Vinople/vinople-jekyll/en/about/index.html",
+		"/home/mikasner/HTMLProjects/vatapi/vatapi-web/app/_layouts/post.html",
+		"/home/mikasner/documents/vatapi/notes.txt",
+		"/home/mikasner/documents/speedimport/speedimport/scripts/fieldmapsingle.sh",
+		"/home/mikasner/documents/vatapi/leads.txt",
+		"/home/mikasner/documents/vatapi/businessplan.txt",
+		"/home/mikasner/documents/vatapi/vat-knowledge.txt",
+		"/home/mikasner/documents/vatapi/examples/python.py",
+		"/home/mikasner/documents/vatapi/examples/ruby.rb",
+		"/home/mikasner/documents/vatapi/examples/php.php",
+		"/home/mikasner/documents/vatapi/examples/golang.go",
 		"/home/mikasner/documents/vatapi/clean-taxes-original.awk",
 		"/home/mikasner/documents/vatapi/taxes-original.csv",
 		"/home/mikasner/HTMLProjects/vatapi/vatapi-server/src/vatapi-server.go",
@@ -293,7 +291,6 @@
 		"/home/mikasner/documents/speedimport/speedimport/core/product_category.awk",
 		"/home/mikasner/documents/vatapi/taxes.csv",
 		"/home/mikasner/HTMLProjects/vatapi/rsync_speedimport.sh",
-		"/home/mikasner/documents/vatapi/notes.txt",
 		"/home/mikasner/documents/speedimport/speedimport/notes.txt",
 		"/media/6A615E2C0272111C/My Documents/infolution/llc/tax2013/notes.txt",
 		"/home/mikasner/documents/speedimport/speedimport/core/res_partner.awk",
@@ -357,7 +354,6 @@
 		"/home/mikasner/documents/speedimport/speedimport/start.sh",
 		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/app/freedownloads.csv",
 		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/dist/freedownloads.csv",
-		"/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/index.js",
 		"/home/mikasner/HTMLProjects/speedimport/speedimport-node/index.js",
 		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/app/cgi-bin/download.pl",
 		"/home/mikasner/HTMLProjects/speedimport/speedimport-web/app/cgi-bin/download.py",
@@ -367,46 +363,7 @@
 		"/home/mikasner/documents/emgd program/speedimport-files/video/SpeedImport.osp",
 		"/home/mikasner/documents/emgd program/speedimport-files/video/RegistarGRU.csv",
 		"/home/mikasner/documents/emgd program/speedimport-files/video/RegPartneri.csv",
-		"/home/mikasner/documents/emgd program/speedimport-files/video/RegistarRU.csv",
-		"/home/mikasner/documents/emgd program/speedimport/cgi-bin/import.py",
-		"/home/mikasner/documents/emgd program/speedimport/core/res_partner.awk",
-		"/home/mikasner/documents/emgd program/speedimport/core/res_bank.awk",
-		"/home/mikasner/documents/emgd program/speedimport/core/product_template.awk",
-		"/home/mikasner/documents/emgd program/speedimport/core/product_product.awk",
-		"/home/mikasner/documents/emgd program/speedimport/index.html",
-		"/home/mikasner/documents/emgd program/speedimport/core/product_category.awk",
-		"/home/mikasner/documents/emgd program/speedimport/importdata.sh",
-		"/home/mikasner/documents/emgd program/speedimport/preparedata.sh",
-		"/home/mikasner/documents/emgd program/speedimport/config",
-		"/home/mikasner/documents/emgd program/speedimport-files/objava_landing_page-a.txt",
-		"/home/mikasner/documents/emgd program/speedimport/import/res.partner.sql",
-		"/home/mikasner/documents/emgd program/speedimport/maps/product.category.map.csv",
-		"/home/mikasner/documents/emgd program/speedimport/import.py",
-		"/home/mikasner/documents/emgd program/speedimport/import/.map.csv",
-		"/home/mikasner/documents/emgd program/speedimport/maps/product.product.map.csv",
-		"/home/mikasner/documents/emgd program/speedimport/core/partneritocsv.awk",
-		"/home/mikasner/documents/emgd program/speedimport/core/sparse_csv.awk",
-		"/home/mikasner/documents/emgd program/speedimport/core/swap.awk",
-		"/home/mikasner/documents/emgd program/speedimport/import/importdata.sh",
-		"/home/mikasner/documents/emgd program/openerpimporter/core/banke.awk",
-		"/home/mikasner/documents/emgd program/import/product.product.map.csv",
-		"/home/mikasner/documents/emgd program/produkcija/product_template.awk",
-		"/home/mikasner/documents/emgd program/produkcija/product_product.awk",
-		"/home/mikasner/documents/emgd program/import/product.template.map.csv",
-		"/home/mikasner/documents/emgd program/import/product.product.sql",
-		"/home/mikasner/documents/emgd program/produkcija/partneri.awk",
-		"/home/mikasner/documents/emgd program/produkcija/kategorije.awk",
-		"/home/mikasner/documents/emgd program/produkcija/RegistarRU.csv",
-		"/home/mikasner/documents/emgd program/produkcija/preparedata.sh",
-		"/home/mikasner/documents/emgd program/baza_backup/dump.sql",
-		"/home/mikasner/documents/emgd program/produkcija/OtpremnicaMPStavke.csv",
-		"/home/mikasner/documents/emgd program/produkcija/OtpremnicaMP.csv",
-		"/home/mikasner/documents/emgd program/import/product.category.map.csv",
-		"/home/mikasner/documents/emgd program/import/product.template.sql",
-		"/home/mikasner/documents/emgd program/produkcija/artikli.awk",
-		"/home/mikasner/documents/emgd program/produkcija/mdbtocsv.sh",
-		"/home/mikasner/documents/emgd program/import/product.category.sql",
-		"/home/mikasner/documents/emgd program/beta_2_a/csv.awk"
+		"/home/mikasner/documents/emgd program/speedimport-files/video/RegistarRU.csv"
 	],
 	"find":
 	{
@@ -424,6 +381,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"vol %",
+			"missing",
+			"(",
+			"passw",
+			"abide",
+			"Q.",
+			"Q=",
+			"clearChildren",
+			"price",
 			"print",
 			" / ",
 			" \\(\\d+\\)$",
@@ -485,7 +451,7 @@
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
 			"/",
@@ -524,100 +490,16 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/mikasner/documents/vatapi/notes.txt",
+					"file": "/home/mikasner/HTMLProjects/hugo/docs/layouts/_default/single.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2662,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2661,
-								2661
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 585.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/mikasner/documents/vatapi/leads.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 318,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								86,
-								86
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/mikasner/documents/vatapi/businessplan.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 584,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								161,
-								161
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/mikasner/NetBeansProjects/Vinople/vinople-node-yeoman/migrations/20140225233451-initall.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9736,
+						"buffer_size": 302,
 						"regions":
 						{
 						},
@@ -630,37 +512,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 225.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/mikasner/documents/vatapi/vat-knowledge.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 321,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								321,
-								321
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -670,143 +522,123 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "/home/mikasner/documents/emgd/nova-gradiska-dom-zdravlja/tel-centrala.txt",
+					"buffer": 1,
+					"file": "/home/mikasner/HTMLProjects/hugo/docs/layouts/chrome/footer.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 729,
+						"buffer_size": 963,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								726,
-								726
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "/home/mikasner/documents/vatapi/examples/python.py",
+					"buffer": 2,
+					"file": "/home/mikasner/HTMLProjects/hugo/docs/layouts/indexes/showcase.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 304,
+						"buffer_size": 419,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10,
-								10
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "/home/mikasner/documents/vatapi/examples/ruby.rb",
+					"buffer": 3,
+					"file": "/home/mikasner/HTMLProjects/hugo/docs/content/indexes/templates.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 616,
+						"buffer_size": 1509,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								596,
-								596
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "/home/mikasner/documents/vatapi/examples/php.php",
+					"buffer": 4,
+					"file": "/home/mikasner/HTMLProjects/hugo/docs/content/layout/chrome.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 543,
+						"buffer_size": 2780,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21,
-								21
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/home/mikasner/documents/vatapi/examples/golang.go",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 998,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								998,
-								998
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Go/Go.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
